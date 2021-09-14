@@ -1,0 +1,16 @@
+make, model, year, fuel-type, numOfDoors, design, type,cylinders, horsepower, city_hwy_mpg, price
+Audi,A4,2011,gas,4,sedan,casual,6,476,22-30,45000
+Jeep,Compass,2007,gas,3,suv,sport,6,170,24-32,22000
+Dodge,Challenger,2013,gas,4,coupe,casual,6,210,20-30,28000
+Chevrolet,Volt,2014,electric,4,sedan,casual,0,180,35-40,35000
+Toyota,Prius,2013,hybrid,4,sedan,casual,4,134,51-48,32000
+BMW,M3,2010,gas,2,coupe,sport,6,300,18-28,41000
+BMW,X5,2005,gas,4,suv,sport,6,265,19-26,55000
+Toyota,Camry,2009,gas,4,sedan,casual,6,178,25-35,26000
+Toyota,Camry,2014,hybrid,4,sedan,sport,6,200,43-39,30000
+Honda,Civic,2013,gas,2,coupe,sport,4,140,28-36,18000
+Nissan,Leaf,2014,electric,4,sedan,casual,0,107,129-102,29000
+Audi,Q7,2013,gas,4,suv,sport,6,333,16-22,60000
+Audi,A7 TDI,2014,diesel,4,sedan,sport,6,240,30-25,58000
+Mercedes,CLA,2013,gas,4,sedan,casual,4,208,22-28,29000
+Fisker,Karma,2014,electric,2,coupe,sport,0,260,85-90,100000
